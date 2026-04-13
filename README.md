@@ -7,16 +7,7 @@ It is a fully functional decentralized application (dApp) built on the **Stellar
 
 ## 🌐 Live Demo
 
-👉 <img width="1347" height="705" alt="Screenshot 2026-04-13 233755" src="https://github.com/user-attachments/assets/5bbcfbc0-20ca-499c-996c-9efd1732bde5" />
-<img width="1355" height="724" alt="Screenshot 2026-04-13 233704" src="https://github.com/user-attachments/assets/dbce7e28-b3e4-4131-8290-e65ac03aa699" />
-<img width="1358" height="706" alt="Screenshot 2026-04-13 233427" src="https://github.com/user-attachments/assets/60d17a97-8411-4d02-8c92-1e1632884b20" />
-<img width="1349" height="715" alt="Screenshot 2026-04-13 233220" src="https://github.com/user-attachments/assets/a51098c1-bd39-4a23-bbb5-fdc7d3ce7351" />
-<img width="1357" height="725" alt="Screenshot 2026-04-13 233106" src="https://github.com/user-attachments/assets/333391b8-dc4f-4695-bb8c-4e8f6fc37b97" />
-<img width="1355" height="724" alt="Screenshot 2026-04-13 233704" src="https://github.com/user-attachments/assets/2b94112a-8d59-41b3-80e2-8e05283b1630" />
-<img width="1358" height="706" alt="Screenshot 2026-04-13 233427" src="https://github.com/user-attachments/assets/b4e61c3b-a867-4cea-a319-c434a27dd9cd" />
-<img width="1349" height="715" alt="Screenshot 2026-04-13 233220" src="https://github.com/user-attachments/assets/d7572ab9-01c3-4366-b5f5-d29d3602e03d" />
-<img width="1347" height="705" alt="Screenshot 2026-04-13 233755" src="https://github.com/user-attachments/assets/e88c5843-c23b-44d4-b8aa-a07195e4951a" />
-https://stellar-wallet-dapp.netlify.app/
+👉  https://stellar-wallet-dapp.netlify.app/
 
 ---
 
@@ -93,15 +84,20 @@ stellar-wallet-dapp/
 ---
 
 ## 📸 Screenshots
+<img width="1357" height="725" alt="Screenshot 2026-04-13 233106" src="https://github.com/user-attachments/assets/1fbde4da-b98a-47d4-a53d-cdd936585807" />
+
 
 ### 🔗 Wallet Connection
-![Wallet](./screenshots/wallet.png)
+<img width="1349" height="715" alt="Screenshot 2026-04-13 233220" src="https://github.com/user-attachments/assets/6dd5a344-cb74-430b-8a0f-a7143162a264" />
+
 
 ### 💰 Balance Display
-![Balance](./screenshots/balance.png)
+<img width="1358" height="706" alt="Screenshot 2026-04-13 233427" src="https://github.com/user-attachments/assets/2eba21be-66b8-4f17-8044-6bd49c1f0f56" />
+
 
 ### 💸 Transaction Success
-![Transaction](./screenshots/transaction.png)
+<img width="1347" height="705" alt="Screenshot 2026-04-13 233755" src="https://github.com/user-attachments/assets/5bbcfbc0-20ca-499c-996c-9efd1732bde5" />
+<img width="1355" height="724" alt="Screenshot 2026-04-13 233704" src="https://github.com/user-attachments/assets/dbce7e28-b3e4-4131-8290-e65ac03aa699" />
 
 ---
 
